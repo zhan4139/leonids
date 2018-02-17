@@ -1,4 +1,23 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
-  image: pong.png
-  github: https://github.com/renyuanz/leonids
+- name: Mobike Data Exploration Platform
+  skill: "Skills: Spring MVC, Bootstrap, jQuery, Node.js, MySQL, Git"
+  descr: "• Implemented two responsive websites based on a MVVM structure <br>
+          • Optimized server response to more than 30 HTTP requests from 3 seconds to 1 second <br>
+          • Maintained the platform including bug fixing according to user feedback and BI manager’s requirements"
+  image: Picture1.png
+  website: https://mobike.com
+
+- name: Geographic Visualization Website
+  skill: "Skills: Java, Ajax, Node.js, MySQL, Git"
+  descr: "• Created websites based on MVVM structure for presenting geographic information<br>
+          • Used Mapbox as a map API and manipulated it using Leaflet.js plugins<br>
+          • Implemented RESTful APIs using Node.js and Express as a backend service to support MySQL data access<br>
+          • Built digital fence on map and interacted with database to create, read, update and delete geography information"
+  website: https://mobike.com
+
+- name: Real-time Car Location Monitoring System
+  skill: "Skills: Java, Spring Data, MongoDB, Git, Vagrant, AWS"
+  descr: "• Implemented and deployed a car location monitoring system using Spring Boot<br>
+          • Persisted data to MongoDB based on Spring Data at data access layer<br>
+          • Integrated Google Maps Directions API to acquire route directions<br>
+          • Incorporated RabbitMQ as a message broker to decouple back-end services"
+  github: https://github.com/zhan4139/car-monitoring-system

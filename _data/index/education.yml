@@ -1,8 +1,9 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+- name: Northeastern University
+  link: http://www.northeastern.edu/
+  date: 09/2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  descr: <br> (Master of Science in Information Systems)
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: University of Minnesota, Twin Cities
+  link: https://twin-cities.umn.edu/
+  date: 09/2014 - 05/2017
+  descr: <br> (Bachelor's Degree in Statictics)
