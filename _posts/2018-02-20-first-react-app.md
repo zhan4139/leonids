@@ -42,8 +42,8 @@ all static pages.
 
 More Images:
 
-![first-image](/img/ryan-tk-indecision-app2.png)
-![second-image](/img/ryan-tk-indecision-app3.png)
-![third-image](/img/ryan-tk-indecision-app4.png)
+<img src="/img/ryan-tk-indecision-app2.png" width="33%" height="300">
+<img src="/img/ryan-tk-indecision-app3.png" width="33%" height="300">
+<img src="/img/ryan-tk-indecision-app4.png" width="33%" height="300">
 
 Online Course at Udemy Credit To: [Andrew Mead](https://www.udemy.com/react-2nd-edition/learn/v4/overview)
