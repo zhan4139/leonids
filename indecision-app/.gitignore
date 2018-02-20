@@ -1,10 +1,21 @@
-# Add the file/directory name of anything that should not be added but is showing as Untracked by git status
-.idea/
-*.DS_Store
+# See https://help.github.com/ignore-files/ for more about ignoring files.
 
-# Dependency directories
-node_modules/
-jspm_packages/
+# dependencies
+/node_modules
 
-# log
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
 yarn-error.log*

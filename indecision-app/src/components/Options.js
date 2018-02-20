@@ -27,26 +27,3 @@ const Options = (props) => (
 );
 
 export default Options;
-
-// class Options extends React.Component {
-//     //No need to bind this because we will use parents' props
-//     // constructor(props) {
-//     //     super(props);
-//     //     this.handleRemoveAll = this.handleRemoveAll.bind(this);
-//     // }
-//     // handleRemoveAll() {
-//     //     this.props.handleDeleteOptions;
-//     // }
-//
-//     render() {
-//         return (
-//             <div>
-//                 <button onClick={this.props.handleDeleteOptions}>Remove All</button>
-//                 {/*{this.props.options.length}*/}
-//                 {this.props.options.map((option) => <Option.js key={option} optiontext={option}/>)}
-//                 <Option.js />
-//             </div>
-//         );
-//     }
-// }
-
