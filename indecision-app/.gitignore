@@ -1,0 +1,10 @@
+# Add the file/directory name of anything that should not be added but is showing as Untracked by git status
+.idea/
+*.DS_Store
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# log
+yarn-error.log*
