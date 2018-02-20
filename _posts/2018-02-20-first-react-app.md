@@ -8,11 +8,11 @@ image:
   feature: ../img/ryan-tk-indecision-app.png
 ---
 
-##Demo
+## Demo
 
 Check out the app using this [link](https://ryan.tk/indecision-app)
 
-##README
+## README
 
 This is my first app using ReactJS, the purpose of this project is to know the syntax of ES6 and ReactJS.
 
@@ -32,7 +32,7 @@ During the development, I learned:
     * Deploy the app to github pages using "yarn deploy" and "gh-pages"
     ([How to deploy my react app to github pages?](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages))
     
-###More details
+### More details
 
 Instead of developing React by manually configuring using webpack, react provides more convenient way by integrating webpack in 
 react-scripts. Learn how to start a react app from hello-world demo, check out: https://github.com/facebook/create-react-app#creating-an-app 
@@ -42,8 +42,8 @@ all static pages.
 
 More Images:
 
-![first-image](../img/ryan-tk-indecision-app2.png)
-![second-image](../img/ryan-tk-indecision-app3.png)
-![third-image](../img/ryan-tk-indecision-app4.png)
+![first-image](/img/ryan-tk-indecision-app2.png)
+![second-image](/img/ryan-tk-indecision-app3.png)
+![third-image](/img/ryan-tk-indecision-app4.png)
 
 Online Course at Udemy Credit To: [Andrew Mead](https://www.udemy.com/react-2nd-edition/learn/v4/overview)
