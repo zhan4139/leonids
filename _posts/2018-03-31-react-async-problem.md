@@ -38,14 +38,14 @@ Also, since fetch is also Async, during the 'then' block, you update the state, 
 like:
 
 ```javascript
-fetch("http://example.com").then(resp => resp.ok? this.setState(resp.json()) : Promise.reject(response.text())).catch();
+fetch("http://example.com").then(resp => resp.ok ? this.setState(resp.json()) : Promise.reject(response.text())).catch();
 console.log(this.state); // The state may not have been updated
 ```
 
 # Solution: 
 1. setState provides a callback parameter which we can use to do request right after we update the state.
 ```javascript
-this.setState({name: Ryan}, () => xxxrequest);
+this.setState({name: Ryan}, () => xxxrequest());
 ```
 2. or using **componentDidUpdate()**. However, in my case, since I have to update state in a request, using this lifecycle method
 will cause infinite loop because each setState will cause re-render and re-render will call didupdate agiain then request setState again.
