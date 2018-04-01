@@ -29,7 +29,7 @@ For example:
 
 ```javascript
 this.setState({name: Ryan});
-fetch("https://www.google.com/search?q=" + this.state.name).then(...).catch(...);
+fetch("https://www.google.com/search?q=" + this.state.name).then().catch();
 ```
 
 This may fail due to above reasons.
