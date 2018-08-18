@@ -1,8 +1,9 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+# <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
 - name: Shell TechWorks
   link: https://www.shell.com/energy-and-innovation/innovating-together/shell-techworks.html
-  date: 05/2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  date: 05/2018 - 08/2018
   job: Software Engineer Intern
 
 - name: Mobike.com
