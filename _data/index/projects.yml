@@ -1,7 +1,8 @@
 - name: Mobike Data Exploration Platform
   skill: "Skills: Spring MVC, Bootstrap, jQuery, Node.js, MySQL, Git"
-  descr: "• Implemented two responsive websites based on a MVVM structure <br>
-          • Optimized server response to more than 30 HTTP requests from 3 seconds to 1 second <br>
+  descr: "• Implemented responsive websites based on MVVM structure <br>
+          • Collaborated with backend engineers to implement RESTful APIs for frontend using Spring Boot <br>
+          • Presented real-time data using visualization techniques E-charts, jQuery DataTables, MapV <br>
           • Maintained the platform including bug fixing according to user feedback and BI manager’s requirements"
   image: Picture1.png
   website: https://mobike.com
