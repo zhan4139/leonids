@@ -6,19 +6,19 @@
 title: Ryan Zhang
 email: tyzhang2014@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
-url: https://zhan4139.github.io # the base hostname & protocol for your site
-keywords: ["Programming", "Java", "JavaScript"]
+url: https://ryan.tk # the base hostname & protocol for your site
+keywords: ['Programming', 'Java', 'JavaScript']
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          America/Los_Angeles
-markdown:          kramdown
-highlighter:       rouge
+timezone: America/Los_Angeles
+markdown: kramdown
+highlighter: rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+permalink: /articles/:year-:month/:title
 
 kramdown:
   auto_ids: true
@@ -35,15 +35,15 @@ kramdown:
 owner:
   name: Ryan
   avatar: profile.jpeg
-  job: "Software Engineer"
-  bio: "full-stack enthusiast, open source lover @Seattle, WA."
+  job: 'Software Engineer'
+  bio: 'full-stack enthusiast, open source lover @Seattle, WA.'
   email: tyzhang2014@gmail.com
   disqus-shortname: ryanblog
   twitter: zhan4139 #username
   facebook: ryan.t.zhang #username
   google:
     plus: #username
-    analytics: UA-62251910-2
+    analytics: #UA-62251910-2
     verify:
     ad-client:
     ad-slot:
